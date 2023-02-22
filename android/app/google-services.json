@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "101633365815",
+    "project_id": "drive-control-c6419",
+    "storage_bucket": "drive-control-c6419.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101633365815:android:393d3465336d55b534acb2",
+        "android_client_info": {
+          "package_name": "com.topsinfo.control_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101633365815-uqaldcp1gfg6v88pd0ga3a9ulkg0ep8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDruhvsjpwwBIg1PXu3wg6r7iHZPBHfNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101633365815-uqaldcp1gfg6v88pd0ga3a9ulkg0ep8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
